@@ -1,9 +1,9 @@
 # Project information
-site_name: Webpage template
+site_name: HeaDS repo webpage
 site_url: '' # This should be nothing cause we build the webpage from local
 site_author: John Doe
 site_description: >-
-  Outline for webpage
+  Main webpage for the Center for Health Data Science github repository.
 
 # Repository
 repo_name: Center for Health Data Science
@@ -93,7 +93,7 @@ extra:
       link: https://github.com/Center-for-Health-Data-Science
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/ucph_heads
-  homepage: https://github.com/Center-for-Health-Data-Science
+  homepage: https://center-for-health-data-science.github.io/
 
 # Extensions
 
