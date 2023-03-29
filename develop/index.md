@@ -1,7 +1,7 @@
 ---
-title: Name of Page
-summary: A brief description of my document.
-date: 2000-01-01
+title: Home
+summary: Home page of the website
+date: 2023-03-28
 hide:
   - navigation
   - toc
@@ -20,44 +20,30 @@ hide:
 -->
 
 <center>
-# Name of the Repo/Course
+# Center for Health Data Science Github page
 </center>
 
-**Updated:** Date last updates
+**Updated:** 2023-03-28
 
-Here is where you will write an abstract about the repo/course.
+Welcome to the repository of the Center for Health Data Science (HeaDS), University of Copenhagen. 
+This repository will host a website highlighting the tools and courses the HeaDS team produces. For the main webpage of the Center, visit the [official website](https://heads.ku.dk/).
 
-<br>
+![team](https://heads.ku.dk/images/1100x600/heads_group_photo4.png)
 
-<!-- AUTHORS -->
-<!-- Format: [author name](link to author page){ .md-button } -->
-<h4>Authors</h4>
+**Purpose:** Lore ipsum
 
-[Thilde Terkelsen](https://www.linkedin.com/in/thilde-b-terkelsen/){ .md-button }
-[Diana Andrejeva](https://www.linkedin.com/in/diana-andrejeva-766058155/){ .md-button }
-[Henrike Zschach](https://www.linkedin.com/in/henrikezschach/){ .md-button }
+**Methods:**  Lore ipsum
 
-<hr>
+**Features:** Lore ipsum
 
-<!-- OVERVIEW OF REPO/COURSE -->
-!!! abstract "Overview"
-    &#128172; **Syllabus:**    
-        1. First item  
-        2. Second item  
+**Usage:** Lore ipsum
 
-    &#128368; **Total Time Estimation:** X hours  
+**Support:** Lore ipsum
 
-    &#128193; **Supporting Materials:**  
+**Contribute:** Lore ipsum
 
-    &#128203; **License:** [Tutorial Content is licensed under Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+**Acknowledgements:** Lore ipsum funding
 
-
-!!! warning "Course Requirements"
-    - First requirement
-    - Second requirement
-
-
-This is where you should write a longer introduction to the course.
 
 ### Acknowledgements
 

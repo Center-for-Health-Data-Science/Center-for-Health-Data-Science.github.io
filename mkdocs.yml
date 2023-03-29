@@ -16,6 +16,7 @@ theme:
   # url: https://squidfunk.github.io/mkdocs-material/
 
   name: material
+  custom_dir: overrides
 
   # Necessary for search to work properly
   include_search_page: false
@@ -67,6 +68,7 @@ theme:
 
 # Changes to website colours and image parameters
 extra_css:
+  - stylesheets/neoteroi-mkdocs.css
   - stylesheets/extra.css
 
 extra_javascript:
@@ -74,12 +76,14 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-
 plugins:
+  - tags:
+      tags_file: keywords.md # Keywords file to use for mkdocs tags
+  - bibtex:
+      bib_file: references.bib # Reference file in bibtex format
   - search
   - mkdocs-video # embed videos to the docs
-  # minify HTML of a page before it is written to disk
-  - minify:
+  - minify:   # minify HTML of a page before it is written to disk
       minify_html: true
   - mkdocs-jupyter
 
@@ -119,9 +123,12 @@ markdown_extensions:
   - pymdownx.critic # useful for marking .md file without changes to html  
   - pymdownx.caret # improved functionality for caret symbol  
   - pymdownx.details # collapsable elements that hide content  
-  - pymdownx.emoji: 
-      emoji_generator: !!python/name:materialx.emoji.to_svg  
-      emoji_index: !!python/name:materialx.emoji.twemoji  
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.highlight: # code highlighting  
       anchor_linenums: true  
   - pymdownx.inlinehilite # inline code highlight  
@@ -134,6 +141,7 @@ markdown_extensions:
   - pymdownx.tasklist: # checkbox task list  
       custom_checkbox: true
   - pymdownx.tilde # delete and subscript
+  - neoteroi.cards
 
 # Extra configs
 use_directory_urls: false
@@ -142,10 +150,14 @@ site_dir: docs # built webpage will be created in the docs folder
 
 # Page tree
 nav:
-  - Introduction: index.md
-  - General Page: empty.md
-  - Jupyter notebook: jupyter_example.ipynb
-  - Knitted Rmarkdown: rmarkdown_example.md
+  - Home: index.md
+  - Courses: courses.md
+  - Publications: publications.md
+  - Tools: tools.md
+  - Templates: 
+    - General Page: empty.md
+    - Jupyter notebook example: jupyter_example.ipynb
+    - Knitted Rmarkdown exa,[;e]: rmarkdown_example.md
   
   # include your page titles and associating .md files here
    
