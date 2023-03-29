@@ -1,6 +1,6 @@
 ---
-title: HeaDS courses
-summary: List of courses that the HeaDS DataLab provides
+title: HeaDS news
+summary: List of news relating to github repo
 date: 2023-03-28
 hide:
   - navigation
@@ -20,15 +20,9 @@ hide:
 -->
 
 <center>
-# Center for Health Data Science Courses
+# Center for Health Data Science tools
 </center>
 
 **Updated:** 2023-03-28
 
-DataLab team social cards?
-
-HeaDS DataLab provides several courses on Data Analysis such as R course, etc 
-
-List of courses with small description and link to course repos
-
-Put here links to course repos.
+Put here news regarding HeaDS repos.

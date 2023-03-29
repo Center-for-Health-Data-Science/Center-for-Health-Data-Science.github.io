@@ -29,7 +29,7 @@ hide:
         2. Second item  
 
     
-Write your introduction to the page here.
+This is a template to write course lessons. Write your introduction to the page here.
 
 <hr>
 

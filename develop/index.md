@@ -30,22 +30,15 @@ This repository will host a website highlighting the tools and courses the HeaDS
 
 ![team](https://heads.ku.dk/images/1100x600/heads_group_photo4.png)
 
-**Purpose:** Lore ipsum
+What to put in here?
 
-**Methods:**  Lore ipsum
-
-**Features:** Lore ipsum
-
-**Usage:** Lore ipsum
-
-**Support:** Lore ipsum
-
-**Contribute:** Lore ipsum
-
-**Acknowledgements:** Lore ipsum funding
-
+- Highlighed repos?
+- Maybe change the banner to "visit the official webpage here"
 
 ### Acknowledgements
 
-- First acknowledgement
+Funding and other acknowledgements
 
+### Collaborators
+
+HeaDS git collaborators? Maybe like links to Jonas github repos or Tugce's?

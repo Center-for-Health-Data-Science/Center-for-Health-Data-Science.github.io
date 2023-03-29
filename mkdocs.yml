@@ -1,7 +1,7 @@
 # Project information
 site_name: HeaDS repo webpage
-site_url: '' # This should be nothing cause we build the webpage from local
-site_author: John Doe
+site_url: 'https://center-for-health-data-science.github.io/'
+site_author: Jose Alejandro Romero Herrera
 site_description: >-
   Main webpage for the Center for Health Data Science github repository.
 
@@ -149,8 +149,11 @@ docs_dir: develop # source md files should be saved in the develop folder
 site_dir: docs # built webpage will be created in the docs folder
 
 # Page tree
+# include your page titles and associating .md files here
+
 nav:
   - Home: index.md
+  - News: news.md
   - Courses: courses.md
   - Publications: publications.md
   - Tools: tools.md
@@ -159,5 +162,3 @@ nav:
     - Jupyter notebook example: jupyter_example.ipynb
     - Knitted Rmarkdown exa,[;e]: rmarkdown_example.md
   
-  # include your page titles and associating .md files here
-   
