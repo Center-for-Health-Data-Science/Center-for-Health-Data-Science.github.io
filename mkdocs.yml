@@ -159,6 +159,5 @@ nav:
   - Tools: tools.md
   - Templates: 
     - General Page: empty.md
-    - Jupyter notebook example: jupyter_example.ipynb
-    - Knitted Rmarkdown exa,[;e]: rmarkdown_example.md
+
   

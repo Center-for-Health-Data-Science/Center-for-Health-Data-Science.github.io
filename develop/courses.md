@@ -53,6 +53,8 @@ The course From Excel to R is intended for users with no, or very limited, exper
 
 [Github link](https://github.com/Center-for-Health-Data-Science/PythonTsunami)
 
+[Course webpage](https://center-for-health-data-science.github.io/PythonTsunami/)
+
 The course Python Tsunami is an 3-day introductory course to programming in the language Python. It is intended for researchers at SUND who are interested in learning how to use Python but who do not have any prior experience yet.
 
 We will demonstrate how to run Python from Jupyter Notebooks hosted on google colab, a tool that is often used for data analysis. An overview of the fundamental Pythonic data structures will follow and participants will learn about containers, conditional statements and loops. Moreover, the course will introduce the Python library pandas that allows for efficient data manipulation. Lastly, we will give a first introduction to data visualization in Python.
