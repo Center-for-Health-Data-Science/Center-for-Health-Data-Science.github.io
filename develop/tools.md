@@ -39,11 +39,3 @@ Github link: [https://github.com/tooche/covid19_dashboard](https://github.com/to
 Creator: [Tugce Karaderi](https://github.com/tooche)
 
 R shiny dashboard that shows developments of the COVID-19 pandemic.
-
-## Deep Generative Decoder
-
-Github link: [https://github.com/tooche/covid19_dashboard](https://github.com/Center-for-Health-Data-Science/dgd)
-
-Creator: [Viktoria Schuster](https://github.com/Center-for-Health-Data-Science/dgd/commits?author=viktoriaschuster)
-
-DGD is a package for probabilistic representation learning. It can be applied to various tasks. The implementation for Fashion-MNIST and single-cell expression counts can be found in branch paper.
