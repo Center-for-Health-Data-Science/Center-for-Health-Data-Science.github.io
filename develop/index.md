@@ -20,7 +20,7 @@ hide:
 -->
 
 <center>
-# Center for Health Data Science Github page
+# Tools developed at HeaDS
 </center>
 
 **Updated:** 2023-04-28
@@ -32,10 +32,10 @@ This repository will host a website highlighting the tools and courses the HeaDS
 
 ### Acknowledgements
 
-Funding and other acknowledgements
+Funding and other acknowledgements.
 
 ### Collaborators
 
-- [Tugce Karaderi](https://github.com/tooche): Assistant Professor, Group Leader of the Karaderi Group at HeaDS
+- [Tugce Karaderi](https://github.com/tooche): Assistant Professor, Group Leader of the Karaderi Group at HeaDS.
 - [Jonas Andreas Sibbesen](https://github.com/jonassibbesen): Former Assistant Professor and Group Leader of the Sibbesen Group at HeaDS.
 - [Danish National Sandbox for Health Data Science](https://hds-sandbox.github.io/): a collaborative project with team members spanning five Danish universities, providing support and advance health data science training and research in Denmark (and beyond).
