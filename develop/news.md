@@ -4,7 +4,6 @@ summary: List of news relating to github repo
 date: 2023-03-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--

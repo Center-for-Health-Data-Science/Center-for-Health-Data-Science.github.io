@@ -4,7 +4,6 @@ summary: List of courses that the HeaDS DataLab provides
 date: 2023-04-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--

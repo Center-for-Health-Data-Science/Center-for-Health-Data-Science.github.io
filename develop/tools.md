@@ -4,7 +4,6 @@ summary: List of tools developed by HeaDS affiliated members that have a Github 
 date: 2023-04-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--

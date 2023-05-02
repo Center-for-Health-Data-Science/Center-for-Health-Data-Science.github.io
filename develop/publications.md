@@ -4,7 +4,6 @@ summary: List of publications with HeaDS affiliation that have a Github repo
 date: 2023-03-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--
