@@ -153,11 +153,11 @@ site_dir: docs # built webpage will be created in the docs folder
 
 nav:
   - Home: index.md
-  - News: news.md
+  #- News: news.md
   - Courses: courses.md
   - Publications: publications.md
   - Tools: tools.md
-  - Templates: 
-    - General Page: empty.md
+  #- Templates: 
+  #  - General Page: empty.md
 
   
