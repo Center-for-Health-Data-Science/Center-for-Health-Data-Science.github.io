@@ -4,7 +4,6 @@ summary: Home page of the website
 date: 2023-04-28
 hide:
   - navigation
-  - toc
 ---
 
 <!--
@@ -20,7 +19,7 @@ hide:
 -->
 
 <center>
-# Tools developed at HeaDS
+# Center for Health Data Science Github page
 </center>
 
 **Updated:** 2023-04-28

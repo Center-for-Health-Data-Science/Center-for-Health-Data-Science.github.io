@@ -24,12 +24,11 @@ hide:
 
 **Updated:** 2023-03-28
 
-Put here a list of publications with HeaDS affiliation that have a linked github repo in the publication. 
-Put the link to the repo.
-Put a brief description of the manuscript and the repo
-Separate it by Research Groups?
+HeaDS believes in the principles of open science and reproducibility. As part of our commitment to these values, we strive to make our publications as reproducible as possible. To achieve this, we make our research process transparent by showcasing the GitHub repositories that contain our code and data. We also document our research process to ensure that others can replicate our findings and build upon them. By doing so, we hope to contribute to the wider scientific community's efforts to promote openness and transparency in research.
 
 ## Krogh group
+
+[cards cols="3"(./develop/cards/krogh_group.yaml)]
 
 ### The deep generative decoder: Using MAP estimates of representations
 
@@ -43,6 +42,8 @@ DGD is a package for probabilistic representation learning. It can be applied to
 
 
 ## Karaderi group
+
+[cards cols="3"(./develop/cards/karaderi_group.yaml)]
 
 Yengo, L., Vedantam, S., Marouli, E. et al. A saturated map of common genetic variants associated with human height. Nature 610, 704-71 (2022). https://doi.org/10.1038/s41586-022-05275-y
 

@@ -24,17 +24,15 @@ hide:
 
 **Updated:** 2023-04-28
 
-[cards cols="3"(./develop/cards/cards.yaml)]
-
-[HeaDS DataLab](https://heads.ku.dk/datalab/) provides several courses on Data Analysis such as introductions to R and python, git and github and related topics. 
-
 !!! info "Courses calendar"
 
     Check the event calendar at our [official webpage](https://heads.ku.dk/course/next-courses/)   
 
-In addition, the Danish National Sanbox for Health Data Science, ([HDS sandbox](https://hds-sandbox.github.io/)), also offers courses on omics analysis.
+## DataLab courses
 
-## DataLab Course list
+[cards cols="3"(./develop/cards/datalab.yaml)]
+
+[HeaDS DataLab](https://heads.ku.dk/datalab/) provides several courses on Data Analysis such as introductions to R and python, git and github and related topics.
 
 ### Introduction to Machine Learning in Biomedical Research
 
@@ -95,7 +93,11 @@ This workshop contains a basic tutorial on how to use the shell and command line
 
 ## NHDS sandbox courses
 
-See a list of all courses [here](https://hds-sandbox.github.io/modules/index.html). 
+[cards cols="3"(./develop/cards/sandbox.yaml)]
+
+The [Danish National Sandbox for Health Data Science](https://hds-sandbox.github.io/) is a collaborative project with team members spanning five Danish universities, providing support and advance health data science training and research in Denmark (and beyond). The Sandbox project also provides courses on "omic" related topics, such as proteomics, genomics and transcriptomics.
+
+See all courses [here](https://hds-sandbox.github.io/modules/index.html). 
 
 ### Introduction to bulk RNAseq analysis 
 
@@ -117,7 +119,7 @@ This course is based on the material developed for the NGS summer school at Aarh
 
 ### Proteomics UCloud app
 
-[Github link](https://hds-sandbox.github.io/NGS_summer_course_Aarhus/)https://hds-sandbox.github.io/proteomics-course/index.html)
+[Github link](https://hds-sandbox.github.io/proteomics-course/index.html)
 
 Discover the world of proteomics with the Clinical Proteomics module of the Sandbox, offering the Proteomics Sandbox app on UCloud - an accessible resource for biomedical students and non-computational researchers. With a user-friendly interface and a lightweight clone feature, the app is perfect for those without extensive coding knowledge, providing a stable platform for proteomics software tools. You can also learn to predict protein structures based on sequence data with the independent ColabFold workshop, available on UCloud. This hands-on experience offers insights into the exciting field of proteomics analysis and is accessible for all UCloud-users.
 

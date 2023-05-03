@@ -24,12 +24,7 @@ hide:
 
 **Updated:** 2023-04-28
 
-Put here a list of tools with HeaDS affiliation that have a linked github repo in the publication. 
-Put the link to the repo.
-Put a brief description of the tool and the repo
-Separate it by Research Groups?
-
-This might be redundant with the publication page. My guess is if there is a public repo with a tool it was also probably published
+In HeaDS, we understand the importance of documentation when it comes to sharing and disseminating scientific tools. We believe that providing clear and detailed documentation is crucial for ensuring that our tools are accessible and usable by other researchers. Our documentation includes everything from installation instructions to user guides and code examples. By making our documentation as comprehensive as possible, we hope to empower other researchers to use our tools in their own work and contribute to the broader scientific community's efforts to advance knowledge and discovery.
 
 ## COVID-19 Dashboard
 
