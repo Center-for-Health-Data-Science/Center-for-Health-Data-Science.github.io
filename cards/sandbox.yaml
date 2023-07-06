@@ -1,0 +1,29 @@
+- title: Jennifer Bartel
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0003-2750-9678) [:simple-github:](https://github.com/jenbartell) <br>
+    Project Coordinator / Data Scientist
+  image: ../images/cards/Jennie2.jpg
+
+- title: Samuele Soraggi
+  content: |
+    [:simple-github:](https://github.com/SamueleSoraggi) [:simple-linkedin:](https://www.linkedin.com/samuelesoraggi/) <br>
+    Data Scientist
+  image: https://avatars.githubusercontent.com/u/8777553?v=4
+
+- title: J.A. Romero Herrera
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4765-2087) [:simple-github:](https://github.com/joseale2310) <br>
+    Data Scientist
+  image: https://avatars.githubusercontent.com/u/9451832?v=4
+
+- title: Jacob Fredegaard Hansen
+  content: |
+    [:simple-linkedin:](https://www.linkedin.com/in/jacobfh/) [:simple-github:](https://github.com/jacobfh1) [:custom-orcid:](https://orcid.org/0009-0002-4458-3263) <br>
+    Data Scientist 
+  image: https://avatars.githubusercontent.com/jacobfh1
+
+- title: Conor O'Hare
+  content: |
+    [:simple-github:](https://github.com/conor-ohare) [:simple-linkedin:](https://www.linkedin.com/in/conorohare/) <br>
+    Student assistant 
+  image: https://avatars.githubusercontent.com/u/93766539?v=4

@@ -1,0 +1,17 @@
+- title: Anders Krogh
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-6016-8337) [:simple-github:](https://github.com/viktoriaschuster) <br>
+    Head of HeaDS / Group Leader / Professor
+  image: ./images/cards/anders_krogh.jpg
+
+- title: I&ntilde;igo Prada Luengo
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-4392-0726) [:simple-github:](https://github.com/iprada) <br>
+    Postdoc
+  image: ./images/cards/inigo_heads.png
+
+- title: Viktoria Schuster
+  content: |
+    [:custom-orcid:](https://orcid.org/0000-0002-6016-8337) [:simple-github:](https://github.com/viktoriaschuster) <br>
+    PhD Student
+  image: ./images/cards/viktoria.jpeg
